@@ -10,7 +10,6 @@
   "homepage": "https://github.com/hihaho/laravel-encryptable-trait",
   "license": "MIT",
   "type": "library",
-  "version": "v1.4.0",
   "authors": [
     {
       "name": "Robert Boes",
